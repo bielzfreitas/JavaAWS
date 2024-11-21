@@ -9,3 +9,6 @@ O sistema é composto por duas funções Lambda:
 Também foi utilizado o API Gateway, para receber as requisições e encaminhar para as Lambdas (como um porteiro). Centrando tudo em um único domínio. 
 
 Criado usando o IntelliJ + AWS Console
+
+
+![Captura de tela 2024-11-21 135445](https://github.com/user-attachments/assets/84aac5b0-d82e-4b51-b22c-83c57c794968)
