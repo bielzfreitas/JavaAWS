@@ -1,5 +1,8 @@
 ## Java by AWS
 
+Feito com as aulas da Fernanda Kipper pela RocketSeat.
+
+
 O projeto trata-se de um sistema de encurtamento de URLs utilizando a AWS como infraestrutura serveless. O objetivo é permitir que os usuários criem URLs curtas que redirecionem para URLs originais, com um tempo de expiração configurável.
 
 O sistema é composto por duas funções Lambda:
