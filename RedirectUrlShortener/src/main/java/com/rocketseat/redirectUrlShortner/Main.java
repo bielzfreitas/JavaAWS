@@ -27,7 +27,7 @@ public class Main implements RequestHandler<Map<String, Object>, Map<String, Obj
         }
 
         GetObjectRequest getObjectRequest = GetObjectRequest.builder()
-                .bucket("url-shortener-storage-skyline") //usar o seu bucket criado na AWS
+                .bucket("") //usar o seu bucket criado na AWS
                 .key(shortUrlCode + ".json")
                 .build();
 
