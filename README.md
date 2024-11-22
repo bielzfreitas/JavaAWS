@@ -15,3 +15,7 @@ Criado usando o IntelliJ + AWS Console
 
 
 ![Captura de tela 2024-11-21 135445](https://github.com/user-attachments/assets/84aac5b0-d82e-4b51-b22c-83c57c794968)
+
+
+No código, colocar o nome do seu bucket criado no AWS Console.
+Gerar o arquivo .jar pelo Maven ... maven clean package ... depois subir o arquivo na Lambda criada na AWS Console.
